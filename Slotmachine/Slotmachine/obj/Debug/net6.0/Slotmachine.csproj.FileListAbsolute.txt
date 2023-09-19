@@ -1,0 +1,14 @@
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\bin\Debug\net6.0\Slotmachine.exe
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\bin\Debug\net6.0\Slotmachine.deps.json
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\bin\Debug\net6.0\Slotmachine.runtimeconfig.json
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\bin\Debug\net6.0\Slotmachine.dll
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\bin\Debug\net6.0\Slotmachine.pdb
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\Slotmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\Slotmachine.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\Slotmachine.AssemblyInfo.cs
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\Slotmachine.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\Slotmachine.dll
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\refint\Slotmachine.dll
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\Slotmachine.pdb
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\Slotmachine.genruntimeconfig.cache
+C:\Users\Artur\source\repos\Slotmachine\Slotmachine\obj\Debug\net6.0\ref\Slotmachine.dll
